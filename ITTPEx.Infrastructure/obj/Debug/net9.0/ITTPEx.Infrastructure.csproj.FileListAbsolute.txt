@@ -1,0 +1,17 @@
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\bin\Debug\net9.0\ITTPEx.Infrastructure.deps.json
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\bin\Debug\net9.0\ITTPEx.Infrastructure.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\bin\Debug\net9.0\ITTPEx.Infrastructure.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\bin\Debug\net9.0\ITTPEx.Application.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\bin\Debug\net9.0\ITTPEx.Domain.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\bin\Debug\net9.0\ITTPEx.Application.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\bin\Debug\net9.0\ITTPEx.Domain.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.Infrastructure.csproj.AssemblyReference.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.Infrastructure.AssemblyInfoInputs.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.Infrastructure.AssemblyInfo.cs
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.I.65DC354B.Up2Date
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.Infrastructure.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\refint\ITTPEx.Infrastructure.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ITTPEx.Infrastructure.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Infrastructure\obj\Debug\net9.0\ref\ITTPEx.Infrastructure.dll

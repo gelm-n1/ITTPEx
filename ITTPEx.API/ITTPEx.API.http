@@ -1,0 +1,6 @@
+@ITTPEx.API_HostAddress = http://localhost:5063
+
+GET {{ITTPEx.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

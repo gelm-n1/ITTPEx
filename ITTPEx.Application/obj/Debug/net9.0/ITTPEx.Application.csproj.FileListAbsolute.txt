@@ -1,0 +1,15 @@
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\bin\Debug\net9.0\ITTPEx.Application.deps.json
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\bin\Debug\net9.0\ITTPEx.Application.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\bin\Debug\net9.0\ITTPEx.Application.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\bin\Debug\net9.0\ITTPEx.Domain.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\bin\Debug\net9.0\ITTPEx.Domain.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.Application.csproj.AssemblyReference.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.Application.AssemblyInfoInputs.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.Application.AssemblyInfo.cs
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.Application.csproj.CoreCompileInputs.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.A.3C4C8A4F.Up2Date
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.Application.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\refint\ITTPEx.Application.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ITTPEx.Application.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Application\obj\Debug\net9.0\ref\ITTPEx.Application.dll

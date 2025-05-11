@@ -1,0 +1,11 @@
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\bin\Debug\net9.0\ITTPEx.Domain.deps.json
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\bin\Debug\net9.0\ITTPEx.Domain.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\bin\Debug\net9.0\ITTPEx.Domain.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\ITTPEx.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\ITTPEx.Domain.AssemblyInfoInputs.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\ITTPEx.Domain.AssemblyInfo.cs
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\ITTPEx.Domain.csproj.CoreCompileInputs.cache
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\ITTPEx.Domain.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\refint\ITTPEx.Domain.dll
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\ITTPEx.Domain.pdb
+C:\MyProjects\C#\ITTPEx\ITTPEx.Domain\obj\Debug\net9.0\ref\ITTPEx.Domain.dll
