@@ -20,7 +20,7 @@ namespace ITTPEx.Application.Features.Roles.Commands.CreateRole
             var normalizedName = command.Name.ToLowerInvariant();
 
             if (await _roleRepository.ExistByNameAsync(normalizedName, cancellationToken))
-                throw new UserAlreadyExistsException(normalizedName);
+                throw new RoleAlreadyExistsException(normalizedName);
 
             var guid = Guid.NewGuid();
 

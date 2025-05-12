@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITTPEx.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7a3f5cb7e61cef4230e0b9865875f0624b180e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITTPEx.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITTPEx.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
