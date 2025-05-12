@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\MyProjects\\C#\\ITTPEx\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.api\\controllers\\authentication\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|solutionrelative:ittpex.api\\controllers\\authentication\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.infrastructure\\repositories\\authentication\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|solutionrelative:ittpex.infrastructure\\repositories\\authentication\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getallroles\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\createrole\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\deleterole\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\deleterole\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.infrastructure\\repositories\\authentication\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|solutionrelative:ittpex.infrastructure\\repositories\\authentication\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\exceptions\\rolealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\exceptions\\rolealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +91,233 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:13:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "RelativeDocumentMoniker": "ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "RelativeToolTip": "ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:12:41.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetRoleByIdHandler.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:09:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetRoleByIdDto.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:09:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllRolesQuery.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:08:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllRolesHandler.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:07:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateRoleNameValidator.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:06:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
+              "RelativeToolTip": "ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:56:31.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateRoleNameCommand.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:02:03.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateRoleNameHandler.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:00:39.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllRolesDto.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:55:21.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteRoleHandler.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:59:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
+              "RelativeToolTip": "ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:56:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteRoleCommand.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:55:40.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateRoleValidator.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:55:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:55:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
+              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:54:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CreateRoleHandler.cs",
               "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
               "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T16:50:36.268Z",
               "EditorCaption": ""

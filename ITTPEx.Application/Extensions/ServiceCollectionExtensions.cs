@@ -13,6 +13,7 @@ using ITTPEx.Application.Features.Users.Commands.AdminUpdateUserPassword;
 using ITTPEx.Application.Features.Users.Commands.SelfUpdateUserPassword;
 using ITTPEx.Application.Features.Users.Queries.GetUserByLogin;
 using ITTPEx.Application.Features.Users.Commands.SelfUpdateUserLogin;
+using ITTPEx.Application.Features.Roles.Commands.UpdateRoleName;
 
 namespace ITTPEx.Application.Extensions
 {
@@ -35,6 +36,7 @@ namespace ITTPEx.Application.Extensions
         {
             services.AddScoped<IValidator<CreateRoleCommand>, CreateRoleValidator>();
             services.AddScoped<IValidator<CreateUserCommand>, CreateUserValidator>();
+            services.AddScoped<IValidator<UpdateRoleNameCommand>, UpdateRoleNameValidator>();
             services.AddScoped<IValidator<LoginCommand>, LoginValidator>();
             services.AddScoped<IValidator<RegisterUserCommand>, RegisterUserValidator>();
             services.AddScoped<IValidator<AdminUpdateUserProfileCommand>, AdminUpdateUserProfileValidator>();

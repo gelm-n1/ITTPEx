@@ -16,10 +16,10 @@ namespace ITTPEx.Application.Features.Roles.Commands.DeleteRole
             _roleRepository = roleRepsitory;
         }
 
-        public async Task<Unit> Handle(DeleteRoleCommand query, CancellationToken cancellationToken)
+        public async Task<Unit> Handle(DeleteRoleCommand command, CancellationToken cancellationToken)
         {
-            var role = await _roleRepository.GetByIdAsync(query.Id, cancellationToken) ??
-                throw new NotFoundException(nameof(Role), query.Id);
+            var role = await _roleRepository.GetByIdAsync(command.Id, cancellationToken) 
+                ?? throw new NotFoundException(nameof(Role), command.Id);
 
             await _roleRepository.DeleteAsync(role, cancellationToken);
 

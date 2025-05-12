@@ -17,13 +17,13 @@ namespace ITTPEx.Application.Features.Roles.Queries.GetAllRoles
         {
             var roles = await _roleRepository.GetAllAsync(cancellationToken);
 
-            var rolesDto = roles.Select(r => new GetAllRolesDto
+            var roleDtos = roles.Select(r => new GetAllRolesDto
             {
                 Id = r.Id,
                 Name = r.Name
             }).ToList();
 
-            return rolesDto;
+            return roleDtos;
         }
     }
 }
