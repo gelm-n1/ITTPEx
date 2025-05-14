@@ -29,7 +29,7 @@ namespace ITTPEx.Application.Features.Users.Commands.DeactivateUser
                 ?? throw new NotFoundException(nameof(User), currentUserId);
 
             var user = await _userRepository.GetByIdAsync(command.Id, cancellationToken)
-                ?? throw new NotFoundException(nameof(Role), command.Id);
+                ?? throw new NotFoundException(nameof(User), command.Id);
 
             user.RevokedBy = currentUserLogin;
             user.RevokedOn = DateTime.UtcNow; 

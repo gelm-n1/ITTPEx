@@ -31,7 +31,7 @@ namespace ITTPEx.Application.Features.Users.Commands.SelfUpdateUserLogin
                 Guid.Parse(_httpContextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.NameIdentifier).Value);
 
             var user = await _userRepository.GetByIdAsync(currentUserId, cancellationToken)
-                ?? throw new NotFoundException(nameof(Role), currentUserId);
+                ?? throw new NotFoundException(nameof(User), currentUserId);
 
             if (user.RevokedOn != null) throw new ForbiddenEditException();
 

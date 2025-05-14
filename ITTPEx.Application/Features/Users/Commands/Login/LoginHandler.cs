@@ -30,14 +30,14 @@ namespace ITTPEx.Application.Features.Users.Commands.Login
         {
             var normalizedLogin = command.Login.ToLowerInvariant();
 
-            var user = await _userRepository.GetByLoginAsync(normalizedLogin, cancellationToken) ??
-                throw new InvalidCredentialsException();
+            var user = await _userRepository.GetByLoginAsync(normalizedLogin, cancellationToken) 
+                ?? throw new InvalidCredentialsException();
 
             var passwordCheck = _passwordHasherService.VerifyPassword(command.Password, user.HashPassword);
             if (!passwordCheck) throw new InvalidCredentialsException();
 
-            var role = await _roleRepository.GetByIdAsync(user.RoleId, cancellationToken) ??
-                throw new NotFoundException(nameof(Role), user.RoleId);
+            var role = await _roleRepository.GetByIdAsync(user.RoleId, cancellationToken) 
+                ?? throw new NotFoundException(nameof(Role), user.RoleId);
 
             var encodedJwt = _jwtTokenService.GenerateJwtToken(user.Id.ToString(), role.Name);
 
