@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
+      "projectUniqueName": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
       "projectName": "ITTPEx.Domain",
-      "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
+      "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\obj\\",
+      "outputPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

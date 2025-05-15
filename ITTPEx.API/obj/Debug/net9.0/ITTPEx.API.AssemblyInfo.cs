@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITTPEx.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7a3f5cb7e61cef4230e0b9865875f0624b180e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87680294c0ebaaeff5990bc86346e04f987cd869")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITTPEx.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITTPEx.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

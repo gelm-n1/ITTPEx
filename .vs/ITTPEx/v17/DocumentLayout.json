@@ -1,197 +1,209 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MyProjects\\C#\\ITTPEx\\",
+  "WorkspaceRootPath": "D:\\MyProjects\\ITTPEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|d:\\myprojects\\ittpex\\ittpex.api\\controllers\\authentication\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|solutionrelative:ittpex.api\\controllers\\authentication\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\queries\\getuserprofile\\getuserprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserprofile\\getuserprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\activateuser\\activateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\activateuser\\activateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\deactivateuser\\deactivateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\deactivateuser\\deactivateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\registeruser\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\registeruser\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\queries\\getallactiveusers\\getallactiveusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getallactiveusers\\getallactiveusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\exceptions\\invalidcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\exceptions\\invalidcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.api\\controllers\\authentication\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|d:\\myprojects\\ittpex\\ittpex.api\\controllers\\authentication\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|solutionrelative:ittpex.api\\controllers\\authentication\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.infrastructure\\repositories\\authentication\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|d:\\myprojects\\ittpex\\ittpex.api\\controllers\\authentication\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CAF39B-760F-4F0E-832F-F217EBE6F8A8}|ITTPEx.API\\ITTPEx.API.csproj|solutionrelative:ittpex.api\\controllers\\authentication\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\activateuser\\activateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\activateuser\\activateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\deactivateuser\\deactivateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\deactivateuser\\deactivateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\deleteuser\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\registeruser\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\registeruser\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserlogin\\selfupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\selfupdateuserpassword\\selfupdateuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbyloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getuserbylogin\\getuserbylogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\queries\\getallactiveusers\\getallactiveusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\queries\\getallactiveusers\\getallactiveusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserloginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\adminupdateuserlogin\\adminupdateuserlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\exceptions\\invalidcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\exceptions\\invalidcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\users\\commands\\createuser\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\users\\commands\\createuser\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|d:\\myprojects\\ittpex\\ittpex.infrastructure\\repositories\\authentication\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|solutionrelative:ittpex.infrastructure\\repositories\\authentication\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getrolebyid\\getrolebyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getallroles\\getallrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\queries\\getallroles\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\queries\\getallroles\\getallroleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\updaterolename\\updaterolenamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\createrole\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\deleterole\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\deleterole\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\deleterole\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.infrastructure\\repositories\\authentication\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|d:\\myprojects\\ittpex\\ittpex.infrastructure\\repositories\\authentication\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2102E5C3-D081-49EB-9E3A-C1A28620B17C}|ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj|solutionrelative:ittpex.infrastructure\\repositories\\authentication\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\features\\roles\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\features\\roles\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|c:\\myprojects\\c#\\ittpex\\ittpex.application\\exceptions\\rolealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|d:\\myprojects\\ittpex\\ittpex.application\\exceptions\\rolealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91C2BB5-863A-426A-9CC5-19642D478F9C}|ITTPEx.Application\\ITTPEx.Application.csproj|solutionrelative:ittpex.application\\exceptions\\rolealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -202,331 +214,356 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeactivateUserHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:22:26.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ActivateUserHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:22:15.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeleteUserCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:34:38.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeleteUserHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:35:04.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeleteRoleHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:59:16.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateRoleNameHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAQAAAAAAAAAA==",
+              "Title": "GetUserProfileQuery.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserProfile\\GetUserProfileQuery.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserProfile\\GetUserProfileQuery.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserProfile\\GetUserProfileQuery.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserProfile\\GetUserProfileQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:00:39.678Z",
+              "WhenOpened": "2025-05-15T07:11:09.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\UsersController.cs",
+              "RelativeDocumentMoniker": "ITTPEx.API\\Controllers\\Authentication\\UsersController.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\UsersController.cs",
+              "RelativeToolTip": "ITTPEx.API\\Controllers\\Authentication\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:10:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "ITTPEx.API\\Controllers\\Authentication\\AdminUsersController.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\AdminUsersController.cs",
+              "RelativeToolTip": "ITTPEx.API\\Controllers\\Authentication\\AdminUsersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:09:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeactivateUserHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\DeactivateUser\\DeactivateUserHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:22:26.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivateUserHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:22:15.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:34:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteUserHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:35:04.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteRoleHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:59:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateRoleNameHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:00:39.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginHandler.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginHandler.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginHandler.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA0wCsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T17:36:42.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "RegisterUserHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserHandler.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserHandler.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:21:03.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterUserDto.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:21:02.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterUserCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:21:18.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SelfUpdateUserPasswordHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:05:32.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SelfUpdateUserLoginHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:18:16.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SelfUpdateUserPasswordValidator.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:15:22.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:21:03.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "SelfUpdateUserLoginValidator.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:01:52.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:21:02.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SelfUpdateUserLoginCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:59:32.287Z",
+              "WhenOpened": "2025-05-14T07:21:18.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SelfUpdateUserPasswordHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:05:32.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SelfUpdateUserLoginHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:18:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SelfUpdateUserPasswordValidator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:15:22.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SelfUpdateUserLoginValidator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:01:52.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "RelativeDocumentMoniker": "ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "RelativeToolTip": "ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:12:41.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "InvalidPasswordException.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SelfUpdateUserLoginCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserLogin\\SelfUpdateUserLoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:09:52.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SelfUpdateUserPasswordCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:04:34.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetUserByLoginValidator.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:55:54.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetUserByLoginQuery.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:55:52.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:59:32.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "GetUserByLoginHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Exceptions\\InvalidPasswordException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:54:18.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:09:52.569Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "GetUserByLoginDto.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
+              "Title": "SelfUpdateUserPasswordCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\SelfUpdateUserPassword\\SelfUpdateUserPasswordCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:51:43.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:04:34.793Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "GetAllActiveUsersHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GetUserByLoginValidator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:51:04.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AdminUpdateUserLoginValidator.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:12:09.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:55:54.31Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "AdminUpdateUserLoginHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
-              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
-              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "Title": "GetUserByLoginQuery.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:05:29.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:55:52.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetUserByLoginHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:54:18.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "GetUserByLoginDto.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetUserByLogin\\GetUserByLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:51:43.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllActiveUsersHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Queries\\GetAllActiveUsers\\GetAllActiveUsersHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:51:04.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminUpdateUserLoginValidator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:12:09.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminUpdateUserLoginHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
+              "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
+              "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:05:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "AdminUpdateUserLoginCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginCommand.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginCommand.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\AdminUpdateUserLogin\\AdminUpdateUserLoginCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -534,11 +571,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "InvalidCredentialsException.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidCredentialsException.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidCredentialsException.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Exceptions\\InvalidCredentialsException.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidCredentialsException.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Exceptions\\InvalidCredentialsException.cs",
               "RelativeToolTip": "ITTPEx.Application\\Exceptions\\InvalidCredentialsException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -546,11 +583,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginDto.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginDto.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginDto.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginDto.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginDto.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -558,11 +595,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginCommand.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginCommand.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\Login\\LoginCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -570,11 +607,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CreateUserValidator.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserValidator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserValidator.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserValidator.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserValidator.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserValidator.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -582,11 +619,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserHandler.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserHandler.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserHandler.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -594,11 +631,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -606,11 +643,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserDto.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserDto.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserDto.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserDto.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -618,11 +655,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "ITTPEx.Application\\Extensions\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -630,23 +667,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
-              "RelativeDocumentMoniker": "ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
-              "RelativeToolTip": "ITTPEx.API\\Controllers\\Authentication\\RolesController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:12:41.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "GetRoleByIdHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -654,11 +679,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "GetRoleByIdDto.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetRoleById\\GetRoleByIdDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -666,11 +691,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "GetAllRolesQuery.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -678,11 +703,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "GetAllRolesHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -690,11 +715,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "UpdateRoleNameValidator.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -702,11 +727,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
               "RelativeDocumentMoniker": "ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
               "RelativeToolTip": "ITTPEx.Infrastructure\\Repositories\\Authentication\\RoleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -714,11 +739,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "UpdateRoleNameCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\UpdateRoleName\\UpdateRoleNameCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -726,11 +751,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "GetAllRolesDto.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Queries\\GetAllRoles\\GetAllRolesDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -738,11 +763,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
               "RelativeDocumentMoniker": "ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
               "RelativeToolTip": "ITTPEx.Infrastructure\\Repositories\\Authentication\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -750,11 +775,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "DeleteRoleCommand.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -762,11 +787,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "CreateRoleValidator.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -774,11 +799,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "CreateRoleDto.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -786,11 +811,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "RoleAlreadyExistsException.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
               "RelativeToolTip": "ITTPEx.Application\\Exceptions\\RoleAlreadyExistsException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -798,11 +823,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "CreateRoleHandler.cs",
-              "DocumentMoniker": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "DocumentMoniker": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
               "RelativeDocumentMoniker": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
-              "ToolTip": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "ToolTip": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
               "RelativeToolTip": "ITTPEx.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

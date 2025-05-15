@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj": {}
+    "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj": {
+    "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj",
+        "projectUniqueName": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj",
         "projectName": "ITTPEx.API",
-        "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj",
+        "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\ITTPEx.API.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.API\\obj\\",
+        "outputPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj": {
-                "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj"
+              "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj": {
+                "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj"
               },
-              "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj": {
-                "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj"
+              "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj": {
+                "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj": {
+    "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj",
+        "projectUniqueName": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj",
         "projectName": "ITTPEx.Application",
-        "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj",
+        "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\obj\\",
+        "outputPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,8 +123,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj": {
-                "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj"
+              "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj"
               }
             }
           }
@@ -178,14 +178,14 @@
         }
       }
     },
-    "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj": {
+    "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
+        "projectUniqueName": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
         "projectName": "ITTPEx.Domain",
-        "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
+        "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\obj\\",
+        "outputPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -243,14 +243,14 @@
         }
       }
     },
-    "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj": {
+    "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj",
+        "projectUniqueName": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj",
         "projectName": "ITTPEx.Infrastructure",
-        "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj",
+        "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\ITTPEx.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Infrastructure\\obj\\",
+        "outputPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,11 +271,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj": {
-                "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj"
+              "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj": {
+                "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Application\\ITTPEx.Application.csproj"
               },
-              "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj": {
-                "projectPath": "C:\\MyProjects\\C#\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj"
+              "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\ITTPEx\\ITTPEx.Domain\\ITTPEx.Domain.csproj"
               }
             }
           }

@@ -35,8 +35,8 @@ namespace ITTPEx.API.Controllers.Authentication
             return await _mediator.Send(new GetAllActiveUsersQuery());
         }
 
-        [HttpGet("{login}")]
-        public async Task<ActionResult<GetUserByLoginDto>> GetUserByLogin(string login)
+        [HttpGet("login")]
+        public async Task<ActionResult<GetUserByLoginDto>> GetUserByLogin([FromQuery]string login)
         {
             return await _mediator.Send(new GetUserByLoginQuery(login));
         }

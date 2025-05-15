@@ -16,10 +16,10 @@ namespace ITTPEx.API.Controllers.Authentication
 
         public UsersController(IMediator mediator) => _mediator = mediator;
 
-        [HttpPost("me")]
-        public async Task<ActionResult<GetUserProfileDto>> GetUserByLoginAndPassword(GetUserProfileQuery query)
+        [HttpGet("me")]
+        public async Task<ActionResult<GetUserProfileDto>> GetUserByLoginAndPassword([FromQuery]string password)
         {
-            return await _mediator.Send(query);
+            return await _mediator.Send(new GetUserProfileQuery(password));
         }
 
         [HttpPatch("me/profile")]
