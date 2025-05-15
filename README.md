@@ -37,11 +37,11 @@
 
 ### 6. Запрос пользователя по логину
 
-![image](screens/get-user-by-login.png)
+![image](screens/get-user-by-login-adm.png)
 
 ### 7. Запрос пользователя по лоигну и паролю
 
-![image](screens/get-profile.png)
+![image](screens/get-my-profile.png)
 
 ### 8. Запрос всех пользователей старше определенного возраста
 
